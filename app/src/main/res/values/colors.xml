@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f2ece7</color>
+    <color name="colorPrimaryDark">#0f0a09</color>
+    <color name="colorAccent">#FF6960</color>
+    <color name="appBarText">#FF6960</color>
+    <color name="windowBackground">#E2E2E2</color>
+    <color name="textColorPrimary">#0f0a09</color>
+    <color name="textContent">#424242</color>
+    <color name="contentHeaders">#FF6960</color>
+    <color name="lightGray">#A6A5A6</color>
+    <color name="darkGray">#645C60</color>
+    <color name="colorToolbarExpanded">#fcfcfc</color>
+    <color name="colorToolbarCollapsed">#181818</color>
+    <color name="colorTransparent">#00FFFFFF</color>
+    <color name="translucent_scrim_top">#26000000</color>
+    <color name="translucent_scrim_top_center">#0C000000</color>
+    <color name="translucent_scrim_bottom">#80000000</color>
+    <color name="translucent_scrim_bottom_center">#0D000000</color>
+</resources>
